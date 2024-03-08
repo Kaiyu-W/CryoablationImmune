@@ -1,4 +1,5 @@
-### Online paper: ___`Gu C, Wang X, Wang K, et alCryoablation triggers type I interferon-dependent antitumor immunity and potentiates immunotherapy efficacy in lung cancerJournal for ImmunoTherapy of Cancer 2024;12:e008386. [doi: 10.1136/jitc-2023-008386]`___ (https://jitc.bmj.com/content/12/1/e008386)  
+### Online paper:  
+***Gu C, Wang X, Wang K, et alCryoablation triggers type I interferon-dependent antitumor immunity and potentiates immunotherapy efficacy in lung cancerJournal for ImmunoTherapy of Cancer 2024;12:e008386.*** [***doi: 10.1136/jitc-2023-008386***](https://doi.org/10.1136/jitc-2023-008386)  
 
 ### `script`:  
 `script` includes all codes of analysis, 
