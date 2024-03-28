@@ -1,5 +1,5 @@
 ### Online paper:  
-***Gu C, Wang X, Wang K, et alCryoablation triggers type I interferon-dependent antitumor immunity and potentiates immunotherapy efficacy in lung cancerJournal for ImmunoTherapy of Cancer 2024;12:e008386.*** [***doi: 10.1136/jitc-2023-008386***](https://doi.org/10.1136/jitc-2023-008386)  
+***Gu C, Wang X, Wang K, et al. Cryoablation triggers type I interferon-dependent antitumor immunity and potentiates immunotherapy efficacy in lung cancerJournal for ImmunoTherapy of Cancer 2024;12:e008386.*** [***doi: 10.1136/jitc-2023-008386***](https://doi.org/10.1136/jitc-2023-008386)  
 
 ### `script`:  
 `script` includes all codes of analysis, 
@@ -8,7 +8,7 @@
    - .ipynb: to use Scanpy&CoNGA to analyze scRNA&scTCR data with output picture but large space size
 
 Under this directory,  
-  - `creatObject` includes all scripts from the early stages of the project, which are only used to show and document the generation process of objects;  
+   - `creatObject` includes all scripts from the early stages of the project, which are only used to show and document the generation process of objects;  
    - `finalAnalysis` (mainly under paper/) includes all scripts to visualize all results after creating the objects, which the input data can be generated directly by files from `data` directory.  
     
 ### `data`:  
